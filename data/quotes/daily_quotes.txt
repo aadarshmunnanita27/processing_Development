@@ -1,0 +1,1253 @@
+[2025-09-13 16:40:04] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-13 18:32:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-13 20:46:26] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-14 02:06:07] Good code is its own best documentation. - Steve McConnell
+[2025-09-14 06:35:49] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-14 08:53:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-15 02:12:50] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-15 10:40:50] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-15 12:58:22] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-15 14:47:40] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-15 22:24:29] Good code is its own best documentation. - Steve McConnell
+[2025-09-15 22:37:49] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-16 01:58:46] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-16 08:55:38] The best way to predict the future is to implement it. - Alan Kay
+[2025-09-16 12:58:07] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-16 14:48:05] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-17 01:58:23] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-17 03:44:12] The best way to predict the future is to implement it. - Alan Kay
+[2025-09-17 06:41:06] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-17 10:39:04] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-17 16:45:57] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-17 22:36:52] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-18 01:58:29] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-18 02:22:15] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-18 08:54:21] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-18 14:47:01] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-18 22:38:06] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-19 02:02:01] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-09-19 02:25:58] Good code is its own best documentation. - Steve McConnell
+[2025-09-19 08:54:20] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-19 10:39:47] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-19 12:56:50] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-19 14:47:16] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-19 16:45:24] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-19 22:24:27] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-20 01:56:21] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-20 02:19:42] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-20 03:43:32] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-20 06:36:38] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-20 12:52:26] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-20 18:33:39] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-20 20:46:30] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-21 02:14:47] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-21 02:41:04] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-21 03:49:43] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-21 06:37:06] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-21 10:36:10] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-21 14:46:39] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-22 08:56:13] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-22 14:49:34] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-09-22 16:51:38] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-22 18:37:19] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-22 20:46:41] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-22 22:37:59] Good code is its own best documentation. - Steve McConnell
+[2025-09-23 03:45:30] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-23 08:55:07] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-23 10:40:27] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-09-23 14:49:26] Good code is its own best documentation. - Steve McConnell
+[2025-09-23 22:24:48] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-23 22:38:08] The best way to predict the future is to implement it. - Alan Kay
+[2025-09-24 08:55:50] Good code is its own best documentation. - Steve McConnell
+[2025-09-24 14:46:43] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-24 16:47:41] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-09-24 18:36:14] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-24 20:46:27] Good code is its own best documentation. - Steve McConnell
+[2025-09-25 03:47:50] Good code is its own best documentation. - Steve McConnell
+[2025-09-26 06:39:59] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-26 10:40:06] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-26 16:45:46] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-09-26 22:24:04] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-27 06:34:54] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-27 10:36:13] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-27 12:51:34] Good code is its own best documentation. - Steve McConnell
+[2025-09-27 14:46:38] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-09-28 02:15:30] The best way to predict the future is to implement it. - Alan Kay
+[2025-09-28 08:53:02] First, solve the problem. Then, write the code. - John Johnson
+[2025-09-28 10:36:16] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-09-28 14:46:37] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-09-28 18:34:08] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-09-29 02:37:35] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-09-29 06:44:04] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-09-29 10:42:07] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-29 16:40:19] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-09-29 20:46:05] Good code is its own best documentation. - Steve McConnell
+[2025-09-29 22:21:58] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-09-30 03:46:18] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-09-30 06:42:26] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-30 08:56:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-30 12:59:53] Make it work, make it right, make it fast. - Kent Beck
+[2025-09-30 14:47:45] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-09-30 16:46:40] Good code is its own best documentation. - Steve McConnell
+[2025-09-30 20:46:17] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-09-30 22:38:04] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-01 08:56:07] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-01 18:39:27] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-01 20:46:27] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-01 22:25:01] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-02 08:53:57] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-02 12:56:06] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-02 18:37:39] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-02 20:46:28] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-03 01:58:30] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-03 03:44:16] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-03 08:54:01] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-03 10:38:45] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-03 12:55:45] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-03 22:37:04] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-04 01:53:59] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-04 02:17:02] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-04 03:40:52] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-04 08:53:04] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-04 12:51:23] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-04 16:42:02] Good code is its own best documentation. - Steve McConnell
+[2025-10-04 22:37:04] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-05 02:41:07] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-05 08:52:37] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-05 12:51:53] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-05 14:46:36] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-05 16:41:30] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-06 06:42:03] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-06 10:40:43] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-06 12:59:16] Good code is its own best documentation. - Steve McConnell
+[2025-10-06 22:37:41] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-07 06:41:09] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-07 14:50:04] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-07 16:46:44] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-07 22:38:02] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-08 01:59:11] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-08 02:22:30] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-08 06:41:23] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-08 08:55:51] Good code is its own best documentation. - Steve McConnell
+[2025-10-08 10:40:36] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-08 14:50:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-08 20:46:24] Good code is its own best documentation. - Steve McConnell
+[2025-10-09 02:00:36] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-09 02:24:32] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-09 03:46:46] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-09 06:42:40] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-09 10:41:12] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-09 12:59:09] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-09 15:18:53] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-09 18:39:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-09 20:46:47] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-10-09 22:25:18] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-09 22:38:26] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-10 02:01:05] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-10 02:24:32] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-10-10 03:46:34] Good code is its own best documentation. - Steve McConnell
+[2025-10-10 10:40:25] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-10 12:57:30] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-10-10 18:38:12] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-10 20:46:18] Good code is its own best documentation. - Steve McConnell
+[2025-10-10 22:37:25] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-11 03:42:08] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-11 06:36:08] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-11 08:53:01] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-11 12:51:26] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-11 16:40:56] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-11 18:32:55] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-11 22:36:56] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-12 02:27:05] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-12 03:46:29] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-12 06:36:15] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-12 16:42:11] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-12 22:23:55] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-13 02:13:48] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-13 02:42:37] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-13 10:42:23] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-13 14:49:02] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-13 18:37:41] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-13 20:45:58] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-13 22:25:17] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-14 02:24:50] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-14 08:55:23] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-14 20:46:42] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-15 06:41:22] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-15 08:57:16] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-15 18:41:18] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-15 20:47:59] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-15 22:23:53] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-16 02:03:03] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-16 02:26:46] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-16 03:49:24] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-16 06:41:24] Good code is its own best documentation. - Steve McConnell
+[2025-10-16 08:57:29] Good code is its own best documentation. - Steve McConnell
+[2025-10-16 13:00:27] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-16 20:47:00] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-16 22:22:24] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-16 22:37:33] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-17 06:40:08] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-17 10:40:22] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-17 12:58:39] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-10-17 16:46:59] Good code is its own best documentation. - Steve McConnell
+[2025-10-17 22:25:06] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-17 22:38:13] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-18 08:52:53] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-18 12:53:14] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-18 14:46:39] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-18 16:42:42] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-18 18:35:23] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-18 22:24:08] Good code is its own best documentation. - Steve McConnell
+[2025-10-19 03:56:08] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-19 18:35:38] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-19 20:46:03] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-19 22:38:26] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-20 08:55:34] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-20 20:48:32] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-20 22:25:25] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-20 22:38:51] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-10-21 06:41:58] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-21 14:49:54] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-21 22:37:54] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-22 02:43:05] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-22 08:58:24] Good code is its own best documentation. - Steve McConnell
+[2025-10-22 13:02:47] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-22 16:49:35] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-22 18:43:34] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-22 22:35:52] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-23 02:03:58] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-23 06:42:33] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-23 13:01:28] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-24 01:59:51] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-24 02:24:31] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-24 08:55:54] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-24 13:00:35] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-10-24 14:50:46] Good code is its own best documentation. - Steve McConnell
+[2025-10-25 02:01:42] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-25 03:48:10] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-25 06:36:51] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-25 08:52:49] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-25 10:37:20] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-25 12:53:00] Good code is its own best documentation. - Steve McConnell
+[2025-10-25 22:23:40] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-25 22:37:08] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-26 12:54:18] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-26 14:46:27] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-26 18:36:54] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-26 20:46:08] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-26 22:39:05] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-27 04:02:34] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-27 14:50:11] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-27 22:26:09] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-10-28 02:39:43] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-28 06:44:51] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-28 08:57:17] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-28 13:00:00] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-10-28 14:51:43] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-10-28 22:27:15] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-28 22:40:35] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-29 02:17:43] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-29 02:47:17] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-10-29 03:58:03] The best way to predict the future is to implement it. - Alan Kay
+[2025-10-29 16:51:15] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-29 22:27:02] Make it work, make it right, make it fast. - Kent Beck
+[2025-10-29 22:40:40] The only constant in the technology industry is change. - Marc Benioff
+[2025-10-30 02:15:52] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-30 13:00:46] First, solve the problem. Then, write the code. - John Johnson
+[2025-10-30 20:47:56] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-10-30 22:26:36] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-31 08:55:52] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-10-31 18:42:08] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-10-31 20:46:14] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-10-31 22:39:36] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-01 08:52:22] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-01 14:46:44] Good code is its own best documentation. - Steve McConnell
+[2025-11-01 16:42:17] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-01 20:45:54] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-01 22:37:34] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-02 02:19:40] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-02 06:39:29] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-02 12:53:12] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-02 14:46:10] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-02 16:43:28] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-02 18:34:48] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-02 22:37:53] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-03 02:48:47] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-03 08:58:18] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-03 10:44:09] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-03 13:00:43] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-03 20:48:14] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-04 02:13:30] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-04 03:52:31] Good code is its own best documentation. - Steve McConnell
+[2025-11-04 08:58:24] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-04 13:04:38] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-04 14:52:02] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-05 02:43:49] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-05 06:44:14] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-05 22:27:33] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-06 02:15:39] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-06 03:57:40] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-06 06:44:31] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-06 13:00:59] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-06 16:52:33] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-06 18:44:34] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-07 03:53:38] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-07 06:44:02] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-07 10:41:59] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-07 12:59:03] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-07 14:48:39] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-07 16:46:23] Good code is its own best documentation. - Steve McConnell
+[2025-11-07 22:26:14] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-08 02:25:30] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-08 12:53:52] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-08 14:46:30] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-08 16:44:08] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-08 20:46:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-08 22:24:36] Good code is its own best documentation. - Steve McConnell
+[2025-11-09 02:45:42] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-09 03:53:57] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-09 08:52:33] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-09 18:35:19] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-10 02:50:20] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-10 08:57:39] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-10 13:02:01] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-10 22:28:35] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-10 22:41:18] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-11 03:56:24] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-11 10:43:54] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-11 16:49:30] Good code is its own best documentation. - Steve McConnell
+[2025-11-11 18:41:02] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-11 22:27:43] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-11 22:40:12] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-12 02:14:46] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-12 02:44:12] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-12 03:54:35] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-12 08:59:04] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-12 13:03:08] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-12 16:51:35] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-12 18:42:25] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-12 20:47:27] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-12 22:26:48] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-12 22:38:31] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-13 02:17:13] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-13 02:46:52] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-13 03:58:05] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-13 08:58:01] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-13 16:49:57] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-13 20:49:24] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-14 02:44:50] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-14 08:57:04] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-14 10:42:08] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-14 12:59:40] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-14 14:46:34] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-14 16:49:43] Good code is its own best documentation. - Steve McConnell
+[2025-11-14 22:27:29] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-15 02:06:02] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-15 10:38:23] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-15 16:43:03] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-15 20:46:14] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-15 22:37:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-16 03:59:15] Good code is its own best documentation. - Steve McConnell
+[2025-11-16 06:40:51] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-16 08:53:23] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-16 10:39:07] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-16 12:54:22] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-16 22:26:04] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-17 02:16:44] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-17 06:45:25] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-17 08:59:18] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-17 10:43:59] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-17 14:51:13] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-17 20:46:39] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-17 22:41:09] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-18 02:14:48] Good code is its own best documentation. - Steve McConnell
+[2025-11-18 02:44:13] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-18 03:54:56] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-18 08:58:13] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-18 10:44:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-18 13:01:31] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-18 14:51:15] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-18 22:41:23] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-19 08:57:50] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-19 16:50:41] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-19 18:42:34] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-19 22:40:34] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-20 02:42:47] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-20 08:57:44] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-20 16:50:59] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-20 18:43:55] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-21 02:43:11] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-21 18:37:22] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-22 02:27:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-22 14:46:00] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-22 16:44:43] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-22 18:37:44] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-23 04:08:10] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-23 08:53:43] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-23 10:38:59] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-23 16:44:42] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-23 18:38:34] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-24 02:23:26] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-24 06:45:24] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-24 13:03:07] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-24 16:46:30] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-24 20:47:35] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-24 22:27:52] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-24 22:41:10] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-25 02:16:04] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-25 02:47:01] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-25 06:46:55] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-25 10:45:46] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-25 22:41:36] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-26 02:16:57] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-26 08:58:25] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-26 14:51:50] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-26 22:40:48] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-27 02:13:58] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-27 06:46:50] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-27 08:58:18] Good code is its own best documentation. - Steve McConnell
+[2025-11-27 10:43:55] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-27 18:40:31] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-27 20:46:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-27 22:40:07] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-28 02:13:23] Make it work, make it right, make it fast. - Kent Beck
+[2025-11-28 02:43:17] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-11-28 03:54:32] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-11-28 06:45:58] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-28 14:49:09] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-11-28 18:40:37] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-28 22:26:49] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-11-29 02:13:17] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-29 03:54:09] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-11-29 08:55:10] Good code is its own best documentation. - Steve McConnell
+[2025-11-29 10:40:05] The best way to predict the future is to implement it. - Alan Kay
+[2025-11-29 14:46:30] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-11-29 18:39:16] The only constant in the technology industry is change. - Marc Benioff
+[2025-11-29 22:40:10] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-30 02:58:05] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-11-30 08:53:19] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-11-30 12:56:33] First, solve the problem. Then, write the code. - John Johnson
+[2025-11-30 14:46:32] The best error message is the one that never shows up. - Thomas Fuchs
+[2025-11-30 18:39:17] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-11-30 22:27:08] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-01 02:37:59] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-01 04:33:43] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-01 10:45:54] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-01 13:05:21] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-01 18:49:36] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-01 20:45:53] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-01 22:41:17] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-02 02:18:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-02 09:01:10] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-02 16:54:00] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-02 18:48:05] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-02 20:50:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-02 22:25:32] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-03 02:18:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-03 02:48:40] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-03 06:47:09] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-03 09:00:53] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-03 14:53:57] Good code is its own best documentation. - Steve McConnell
+[2025-12-03 16:54:19] Good code is its own best documentation. - Steve McConnell
+[2025-12-03 20:51:58] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-03 22:43:02] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-04 04:02:43] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-04 08:59:33] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-04 10:46:00] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-04 13:05:59] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-04 14:53:38] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-05 02:19:13] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-05 02:50:45] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-05 04:01:35] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-05 06:47:20] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-05 08:58:47] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-05 20:49:46] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-05 22:28:12] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-06 02:12:57] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-06 02:41:50] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-06 06:41:42] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-06 12:57:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-06 18:38:25] Good code is its own best documentation. - Steve McConnell
+[2025-12-06 20:46:27] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-06 22:26:45] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-07 02:58:29] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-07 08:53:17] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-07 18:38:15] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-07 20:46:26] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-08 02:52:03] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-08 09:00:42] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-08 20:51:10] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-09 02:49:46] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-09 04:00:45] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-09 14:54:23] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-09 16:52:34] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-10 14:55:25] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-10 18:45:05] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-10 22:29:30] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-11 02:55:42] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-11 06:49:27] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-11 09:00:04] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-11 10:46:27] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-11 13:07:28] Good code is its own best documentation. - Steve McConnell
+[2025-12-11 14:52:26] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-11 16:57:32] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-11 18:47:02] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-11 20:48:26] Good code is its own best documentation. - Steve McConnell
+[2025-12-11 22:43:40] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-12 04:07:48] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-12 06:48:26] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-12 09:00:37] Good code is its own best documentation. - Steve McConnell
+[2025-12-12 13:04:24] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-12 18:46:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-13 03:58:26] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-13 08:55:02] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-13 14:47:12] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-13 20:47:36] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-13 22:40:40] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-14 10:40:33] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-14 16:46:51] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-15 02:27:31] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-15 03:00:26] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-15 04:25:47] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-15 10:49:11] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-15 16:57:22] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-15 18:47:49] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-15 22:30:18] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-16 02:54:52] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-16 04:08:56] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-16 13:06:51] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-16 14:56:05] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-16 16:55:37] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-16 20:51:37] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-16 22:28:02] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-17 02:18:43] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-17 20:51:46] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-17 22:30:27] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-17 22:43:27] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-18 02:19:44] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-18 02:51:30] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-18 06:48:27] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-18 14:54:14] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-18 16:54:57] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-18 22:29:24] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-18 22:42:42] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-19 02:22:49] Good code is its own best documentation. - Steve McConnell
+[2025-12-19 02:54:41] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-19 04:07:48] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-19 06:47:11] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-19 10:44:24] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-19 13:03:10] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-20 03:58:40] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-20 16:46:24] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-20 20:46:56] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-20 22:27:12] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-21 14:47:21] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-21 22:28:26] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-22 22:30:00] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-22 22:43:28] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-23 04:11:11] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-23 10:45:30] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-23 16:52:04] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-23 18:46:21] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-23 22:29:05] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-24 04:09:10] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-24 06:49:17] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-24 10:43:27] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-24 13:02:59] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-24 20:49:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-24 22:29:34] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-24 22:42:38] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-25 02:24:30] Good code is its own best documentation. - Steve McConnell
+[2025-12-25 02:57:28] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-25 04:10:55] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-25 08:58:47] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-25 16:49:31] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-25 18:44:37] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-26 02:23:44] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-26 02:55:22] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-26 04:08:35] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-26 06:47:35] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-26 10:43:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-26 18:43:52] Make it work, make it right, make it fast. - Kent Beck
+[2025-12-26 22:42:26] Good code is its own best documentation. - Steve McConnell
+[2025-12-27 02:52:43] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-27 08:56:36] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-27 10:41:02] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2025-12-27 14:47:59] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-27 16:48:06] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-27 20:49:21] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-28 03:07:56] The best way to predict the future is to implement it. - Alan Kay
+[2025-12-28 04:30:14] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-28 16:48:40] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2025-12-29 03:07:57] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2025-12-29 16:49:46] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-29 20:51:07] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2025-12-30 02:58:19] First, solve the problem. Then, write the code. - John Johnson
+[2025-12-30 06:48:38] Code never lies, comments sometimes do. - Ron Jeffries
+[2025-12-30 09:00:49] The only constant in the technology industry is change. - Marc Benioff
+[2025-12-30 14:52:17] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-30 22:43:23] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2025-12-31 02:25:11] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2025-12-31 02:57:05] It's not a bug – it's an undocumented feature. - Anonymous
+[2025-12-31 09:00:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2025-12-31 20:50:23] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-01 03:09:23] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-01 08:59:31] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-01-01 13:04:01] Good code is its own best documentation. - Steve McConnell
+[2026-01-01 18:44:46] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-01 22:29:49] Good code is its own best documentation. - Steve McConnell
+[2026-01-01 22:43:38] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-02 02:27:36] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-02 03:00:23] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-02 16:50:24] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-02 18:44:44] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-02 20:50:19] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-03 13:00:09] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-03 20:49:49] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-03 22:42:28] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-04 02:39:19] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-04 10:41:40] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-04 16:48:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-04 20:50:28] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-04 22:29:17] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-05 02:38:33] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-05 06:55:01] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-05 10:48:17] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-05 14:56:09] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-05 16:52:26] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-06 13:06:16] Good code is its own best documentation. - Steve McConnell
+[2026-01-06 14:55:12] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-06 22:31:48] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-07 02:27:09] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-07 02:59:31] Good code is its own best documentation. - Steve McConnell
+[2026-01-07 04:24:22] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-07 10:46:32] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-07 14:55:36] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-01-07 16:56:35] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-07 18:49:39] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-07 22:30:55] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-08 04:13:18] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-08 06:50:23] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-08 09:02:41] Good code is its own best documentation. - Steve McConnell
+[2026-01-08 22:45:38] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-09 02:27:57] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-09 09:02:04] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-09 14:55:02] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-09 20:51:50] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-10 04:07:42] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-10 13:00:16] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-10 22:29:28] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-11 10:42:41] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-11 13:01:28] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-11 14:49:19] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-11 16:48:24] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-11 20:49:58] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-12 04:34:54] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-12 09:03:49] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-12 20:52:39] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-12 22:28:26] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-12 22:42:40] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-13 04:23:52] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-01-13 06:50:12] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-13 10:47:13] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-13 13:09:41] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-13 14:57:17] Good code is its own best documentation. - Steve McConnell
+[2026-01-13 18:47:31] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-13 22:32:36] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-14 09:02:59] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-14 13:09:28] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-14 18:49:59] Good code is its own best documentation. - Steve McConnell
+[2026-01-14 22:46:35] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-15 02:27:12] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-15 04:26:08] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-15 13:08:11] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-15 22:32:26] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-16 02:28:47] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-16 09:01:07] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-16 10:46:38] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-17 04:06:33] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-17 08:56:48] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-17 10:41:09] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-17 14:49:04] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-17 18:42:45] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-17 22:29:01] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-18 02:37:36] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-18 03:07:42] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-18 04:27:43] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-18 10:42:19] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-18 16:48:00] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-18 18:41:44] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-18 22:29:17] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-19 13:12:20] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-19 14:58:04] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-20 03:03:27] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-01-20 22:31:35] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-01-21 02:31:14] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-21 04:29:47] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-21 10:52:54] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-21 13:12:32] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-21 22:35:48] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-22 02:33:31] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-22 03:06:54] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-22 04:33:02] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-22 10:51:25] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-22 20:55:57] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-22 22:47:12] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-23 03:02:30] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-23 06:51:53] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-23 09:02:30] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-23 10:48:49] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-23 13:10:23] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-23 20:53:30] The best way to predict the future is to implement it. - Alan Kay
+[2026-01-23 22:28:58] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-23 22:43:17] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-24 02:56:55] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-24 04:10:19] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-24 10:42:35] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-24 13:01:42] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-24 16:48:45] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-24 22:29:08] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-25 04:35:35] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-25 13:03:49] Good code is its own best documentation. - Steve McConnell
+[2026-01-25 16:49:55] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-25 18:45:07] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-25 22:30:34] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-26 03:18:23] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-26 04:38:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-26 09:18:20] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-26 10:49:59] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-26 13:11:53] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-26 14:59:26] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-26 22:33:15] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-27 02:35:26] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-27 03:07:35] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-27 04:31:28] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-27 06:53:12] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-27 09:16:20] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-27 18:56:25] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-27 22:32:13] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-28 06:53:33] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-28 13:13:58] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-01-28 17:05:52] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-01-28 18:52:39] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-01-28 21:01:00] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-28 22:37:54] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-01-29 03:29:00] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-01-29 04:51:51] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-29 07:04:41] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-01-29 15:18:21] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-29 17:06:42] The only constant in the technology industry is change. - Marc Benioff
+[2026-01-30 03:29:32] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-30 04:54:24] Make it work, make it right, make it fast. - Kent Beck
+[2026-01-30 07:05:48] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-01-30 09:23:04] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-30 10:59:37] First, solve the problem. Then, write the code. - John Johnson
+[2026-01-30 15:05:49] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-01-30 22:37:15] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-01-31 02:46:16] Good code is its own best documentation. - Steve McConnell
+[2026-01-31 18:49:01] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-01 14:56:59] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-01 18:52:32] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-01 20:55:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-02 03:19:14] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-02 03:42:51] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-02 05:12:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-02 11:09:51] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-02 15:23:30] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-03 03:36:16] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-03 05:01:51] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-03 07:07:53] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-03 13:35:15] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-03 17:29:06] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-03 22:41:08] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-04 03:08:02] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-04 11:04:51] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-04 22:39:10] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-05 17:26:03] Good code is its own best documentation. - Steve McConnell
+[2026-02-05 21:02:44] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-06 13:34:41] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-06 22:37:10] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-06 22:49:51] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-07 03:26:52] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-07 04:50:46] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-07 09:03:44] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-07 16:57:02] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-07 18:52:26] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-07 20:57:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-07 22:37:37] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-08 03:56:01] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-08 05:12:57] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-08 10:51:54] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-08 14:58:41] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-08 22:55:38] Good code is its own best documentation. - Steve McConnell
+[2026-02-09 03:45:27] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-09 15:35:19] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-09 17:27:12] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-09 22:50:41] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-10 03:52:44] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-10 13:54:54] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-10 15:45:34] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-10 17:34:58] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-10 21:25:46] Good code is its own best documentation. - Steve McConnell
+[2026-02-10 23:07:07] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-11 05:15:11] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-11 09:37:02] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-11 19:18:11] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-11 22:40:35] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-11 22:58:29] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-12 05:12:56] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-12 07:16:06] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-12 11:10:46] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-12 13:44:46] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-12 17:34:36] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-12 19:18:29] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-13 03:42:23] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-13 05:08:18] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-13 07:13:23] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-13 09:29:03] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-13 13:36:44] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-13 19:07:21] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-13 21:07:16] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-13 22:59:00] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-14 10:50:35] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-14 14:58:04] Good code is its own best documentation. - Steve McConnell
+[2026-02-14 22:35:24] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-14 22:49:48] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-15 03:21:29] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-15 10:51:31] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-15 14:58:17] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-15 16:56:42] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-15 18:53:49] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-15 22:50:57] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-16 03:19:07] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-16 03:43:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-16 09:36:42] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-16 17:11:04] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-16 19:01:37] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-16 20:59:59] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-17 05:08:22] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-17 07:13:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-17 19:12:57] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-17 21:06:44] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-17 22:57:03] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-18 07:15:11] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-18 09:31:28] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-18 11:10:27] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-18 19:12:54] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-18 22:59:29] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-19 03:15:27] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-19 05:08:31] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-19 07:14:02] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-19 21:02:24] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-20 07:12:15] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-20 20:58:12] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-20 22:38:22] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-20 22:53:46] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-21 02:47:25] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-21 03:25:43] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-21 06:59:29] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-21 16:55:24] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-21 22:35:16] First, solve the problem. Then, write the code. - John Johnson
+[2026-02-21 22:49:06] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-22 07:04:25] The only constant in the technology industry is change. - Marc Benioff
+[2026-02-22 10:49:20] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-22 14:57:09] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-22 22:36:12] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-22 22:50:44] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-23 05:13:29] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-23 07:19:37] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-23 09:37:25] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-23 11:10:57] Make it work, make it right, make it fast. - Kent Beck
+[2026-02-23 13:42:32] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-23 15:31:37] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-23 22:53:52] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-23 23:06:49] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-24 05:08:00] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-24 11:10:46] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-24 15:35:18] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-24 17:34:29] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-24 22:44:44] The best way to predict the future is to implement it. - Alan Kay
+[2026-02-24 22:59:18] Good code is its own best documentation. - Steve McConnell
+[2026-02-25 03:38:49] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-02-25 05:09:54] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-25 21:05:07] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-26 03:35:27] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-02-26 05:07:22] Good code is its own best documentation. - Steve McConnell
+[2026-02-26 09:33:45] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-26 13:43:45] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-02-26 17:36:23] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-26 21:06:14] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-02-26 22:45:32] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-27 05:00:03] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-02-27 07:10:18] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-02-27 11:02:39] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-27 15:22:16] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-02-27 17:04:25] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-02-27 22:34:22] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-02-28 09:00:41] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-02-28 20:53:34] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-01 05:06:22] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-01 07:02:10] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-01 09:02:17] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-01 13:09:53] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-01 22:34:54] Good code is its own best documentation. - Steve McConnell
+[2026-03-01 22:48:33] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-02 03:32:38] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-02 09:33:05] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-02 15:24:06] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-03 03:35:13] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-03 11:03:06] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-03 13:32:55] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-03 15:30:37] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-03 21:01:46] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-03 22:52:22] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-04 02:49:39] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-04 04:53:43] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-04 09:24:54] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-04 22:42:48] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-05 11:04:06] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-05 13:37:23] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-05 19:34:18] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-05 23:11:33] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-06 03:28:52] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-06 04:55:14] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-06 07:05:49] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-06 10:59:57] Good code is its own best documentation. - Steve McConnell
+[2026-03-06 20:59:40] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-07 03:19:51] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-07 06:57:39] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-07 09:02:05] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-07 13:08:41] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-07 14:54:34] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-07 16:50:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-08 03:11:41] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-08 09:01:52] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-08 18:50:54] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-08 22:48:13] Good code is its own best documentation. - Steve McConnell
+[2026-03-09 03:14:46] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-09 11:06:47] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-09 13:40:07] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-09 15:37:47] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-09 19:08:12] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-09 21:02:21] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-09 22:39:40] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-10 11:05:05] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-10 13:38:03] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-10 19:06:27] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-11 03:28:36] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-11 07:09:24] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-11 19:08:45] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-12 19:09:18] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-12 21:03:30] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-13 03:07:48] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-13 04:58:24] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-13 07:10:05] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-13 09:23:59] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-13 13:34:15] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-13 18:59:35] Good code is its own best documentation. - Steve McConnell
+[2026-03-13 21:03:40] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-14 02:49:55] Good code is its own best documentation. - Steve McConnell
+[2026-03-14 03:29:15] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-14 13:14:37] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-14 14:58:47] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-14 18:56:07] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-15 03:30:06] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-15 05:16:23] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-15 07:11:54] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-15 09:18:48] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-15 15:00:07] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-15 16:57:18] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-15 20:58:45] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-15 22:54:21] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-16 03:56:55] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-16 07:45:59] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-16 09:47:06] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-16 15:42:38] Good code is its own best documentation. - Steve McConnell
+[2026-03-17 09:39:37] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-17 11:11:31] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-17 17:35:27] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-17 19:18:49] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-17 22:45:44] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-18 07:16:04] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-18 15:50:15] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-18 17:37:18] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-18 22:56:00] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-19 03:19:45] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-19 03:42:43] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-03-19 21:06:48] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-19 22:39:45] Good code is its own best documentation. - Steve McConnell
+[2026-03-20 05:01:57] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-20 07:11:23] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-20 09:25:10] Good code is its own best documentation. - Steve McConnell
+[2026-03-20 17:09:33] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-21 02:46:51] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-21 16:54:52] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-21 18:52:43] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-21 20:56:33] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-21 22:36:07] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-21 22:49:28] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-22 03:41:19] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-22 13:14:06] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-22 14:57:43] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-22 22:51:01] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-23 03:23:27] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-23 09:45:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-23 13:50:02] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-24 03:12:51] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-24 05:09:44] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-24 07:17:39] Good code is its own best documentation. - Steve McConnell
+[2026-03-24 09:40:09] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-24 11:12:14] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-24 15:44:46] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-24 17:30:59] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-25 03:40:16] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-25 05:10:36] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-25 13:50:24] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-25 19:10:05] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-26 05:19:32] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-26 15:53:30] The only constant in the technology industry is change. - Marc Benioff
+[2026-03-26 17:35:25] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-27 03:29:11] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-27 07:33:58] Good code is its own best documentation. - Steve McConnell
+[2026-03-27 09:38:51] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-27 13:44:15] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-27 15:29:32] First, solve the problem. Then, write the code. - John Johnson
+[2026-03-28 03:39:06] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-03-28 07:11:47] Make it work, make it right, make it fast. - Kent Beck
+[2026-03-28 10:55:55] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-03-28 16:59:43] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-28 22:40:11] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-28 22:55:52] Good code is its own best documentation. - Steve McConnell
+[2026-03-29 03:56:31] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-03-29 07:17:26] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-03-29 10:57:43] Good code is its own best documentation. - Steve McConnell
+[2026-03-29 15:03:18] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-03-29 17:01:28] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-03-29 22:58:31] The best way to predict the future is to implement it. - Alan Kay
+[2026-03-30 10:00:20] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-30 15:52:14] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-03-30 21:24:28] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-31 07:42:50] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-03-31 14:01:55] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-03-31 15:49:09] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-01 04:14:17] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-01 05:34:02] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-01 07:51:41] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-01 14:05:34] Good code is its own best documentation. - Steve McConnell
+[2026-04-01 23:04:04] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-02 11:13:33] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-02 13:57:23] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-02 15:38:43] Good code is its own best documentation. - Steve McConnell
+[2026-04-02 19:13:33] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-02 21:06:24] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-02 22:43:21] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-03 03:47:12] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-03 11:06:56] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-03 13:38:52] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-03 19:03:49] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-04 03:36:21] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-04 15:03:20] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-04 17:01:41] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-04 22:56:16] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-05 03:36:15] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-05 03:56:08] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-05 05:24:02] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-05 13:30:09] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-05 19:02:12] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-06 05:36:32] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-06 08:00:10] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-06 13:47:00] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-06 15:29:05] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-06 19:17:29] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-06 23:02:29] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-07 03:30:16] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-07 03:51:06] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-07 09:50:06] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-07 15:58:53] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-07 19:20:21] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-07 22:52:01] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-08 03:32:00] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-04-08 03:53:16] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-08 05:25:14] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-08 09:49:53] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-08 11:28:04] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-08 21:27:10] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-04-08 22:54:28] Good code is its own best documentation. - Steve McConnell
+[2026-04-09 03:50:07] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-09 07:53:00] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-09 09:56:14] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-09 14:14:40] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-09 21:28:29] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-10 03:40:23] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-10 04:10:03] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-10 05:36:30] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-10 13:50:37] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-10 15:29:45] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-10 17:25:29] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-04-10 19:09:59] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-10 23:02:31] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-11 07:15:13] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-11 19:03:14] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-11 21:03:09] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-11 22:44:37] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-11 22:59:50] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-12 04:12:46] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-12 05:33:52] Good code is its own best documentation. - Steve McConnell
+[2026-04-12 15:20:14] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-12 17:05:15] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-13 03:51:53] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-13 06:00:06] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-13 14:08:33] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-13 21:28:40] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-13 22:55:45] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-13 23:09:40] Good code is its own best documentation. - Steve McConnell
+[2026-04-14 05:35:05] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-14 19:39:15] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-14 22:55:46] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-15 05:35:13] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-15 08:02:26] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-15 14:05:05] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-15 15:49:37] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-15 17:39:38] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-15 23:08:38] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-16 03:45:50] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-16 08:01:47] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-16 16:09:34] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-16 19:36:18] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-17 03:44:30] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-04-17 05:38:19] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-17 09:59:51] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-17 11:27:04] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-17 19:19:05] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-17 22:54:43] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-18 05:21:00] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-18 07:33:27] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-18 15:22:05] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-18 17:05:56] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-18 21:05:34] Good code is its own best documentation. - Steve McConnell
+[2026-04-18 23:02:35] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-19 03:49:25] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-19 05:39:09] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-19 17:06:39] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-19 19:07:17] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-19 21:06:49] The only constant in the technology industry is change. - Marc Benioff
+[2026-04-20 04:22:27] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-20 10:23:39] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-20 15:55:40] Good code is its own best documentation. - Steve McConnell
+[2026-04-20 17:35:18] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-20 21:29:37] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-21 03:45:16] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-04-21 08:06:39] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-04-21 15:56:15] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-21 17:34:38] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-21 21:27:27] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-21 23:05:38] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-22 08:03:46] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-22 10:05:34] Good code is its own best documentation. - Steve McConnell
+[2026-04-22 11:35:15] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-22 21:33:10] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-22 23:13:12] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-23 08:08:20] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-23 19:38:28] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-23 21:26:53] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-23 22:58:47] Good code is its own best documentation. - Steve McConnell
+[2026-04-23 23:11:39] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-24 03:49:46] The best way to predict the future is to implement it. - Alan Kay
+[2026-04-24 04:19:31] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-24 14:08:14] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-04-24 21:30:21] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-24 23:05:45] Good code is its own best documentation. - Steve McConnell
+[2026-04-25 07:43:24] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-25 15:24:41] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-25 21:18:45] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-26 03:55:16] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-26 04:25:43] Good code is its own best documentation. - Steve McConnell
+[2026-04-26 05:54:59] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-26 11:08:27] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-04-26 15:26:18] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-26 21:18:51] Good code is its own best documentation. - Steve McConnell
+[2026-04-27 06:13:10] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-27 12:04:04] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-27 14:27:08] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-27 23:27:13] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-04-28 04:05:04] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-28 04:36:42] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-04-28 12:08:34] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-28 18:05:34] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-28 23:03:28] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-04-28 23:27:12] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-29 06:10:40] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-04-29 17:56:34] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-04-29 23:27:14] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-04-30 08:34:35] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-30 11:55:41] Good code is its own best documentation. - Steve McConnell
+[2026-04-30 14:24:13] First, solve the problem. Then, write the code. - John Johnson
+[2026-04-30 17:51:07] Make it work, make it right, make it fast. - Kent Beck
+[2026-04-30 21:38:16] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-05-01 19:36:24] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-01 21:33:34] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-02 09:46:29] Good code is its own best documentation. - Steve McConnell
+[2026-05-02 11:11:59] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-02 17:24:05] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-02 19:15:38] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-05-02 22:55:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-03 04:10:41] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-03 08:14:34] Good code is its own best documentation. - Steve McConnell
+[2026-05-03 09:55:17] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-03 15:26:59] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-03 17:25:21] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-03 21:24:36] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-04 16:20:17] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-04 18:01:32] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-04 19:53:23] Code never lies, comments sometimes do. - Ron Jeffries
+[2026-05-04 21:43:25] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-04 23:26:19] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-05 04:18:40] Good code is its own best documentation. - Steve McConnell
+[2026-05-05 10:25:06] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-05 16:13:51] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-05 17:58:53] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-05 23:24:54] First, solve the problem. Then, write the code. - John Johnson
+[2026-05-06 04:04:16] The only constant in the technology industry is change. - Marc Benioff
+[2026-05-06 04:35:59] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-05-06 06:16:17] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-06 08:39:33] Good code is its own best documentation. - Steve McConnell
+[2026-05-06 14:47:46] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-06 17:59:36] Good code is its own best documentation. - Steve McConnell
+[2026-05-06 20:00:07] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-05-06 21:42:35] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-05-07 04:04:34] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-07 16:26:01] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-07 18:07:30] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-07 19:52:06] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-05-07 21:34:42] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-08 04:18:02] First, solve the problem. Then, write the code. - John Johnson
+[2026-05-08 05:38:32] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-08 11:49:21] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-08 17:51:59] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-08 21:37:12] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-05-08 23:03:33] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-09 04:26:45] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-05-09 09:56:18] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-09 11:24:25] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-09 15:33:47] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-09 21:26:31] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-10 04:14:11] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-10 06:22:00] The best way to predict the future is to implement it. - Alan Kay
+[2026-05-10 08:20:41] The only constant in the technology industry is change. - Marc Benioff
+[2026-05-11 11:48:16] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-05-11 13:21:05] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-11 20:01:50] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-05-11 21:52:09] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-05-11 23:28:54] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-12 04:04:30] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
+[2026-05-12 06:24:38] The only constant in the technology industry is change. - Marc Benioff
+[2026-05-12 11:04:51] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-12 15:08:05] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-12 21:52:48] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-05-13 17:01:00] It's not a bug – it's an undocumented feature. - Anonymous
+[2026-05-13 20:06:33] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-05-13 21:58:25] Simplicity is the ultimate sophistication. - Leonardo da Vinci
+[2026-05-14 06:35:18] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-14 18:16:21] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-05-14 23:27:05] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon

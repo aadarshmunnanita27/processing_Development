@@ -1,0 +1,99 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
+
+@layer base {
+  :root {
+    --background: 220 27% 5%;
+    --foreground: 220 15% 95%;
+
+    --card: 220 25% 8%;
+    --card-foreground: 220 15% 95%;
+
+    --popover: 220 25% 8%;
+    --popover-foreground: 220 15% 95%;
+
+    --primary: 213 94% 68%;
+    --primary-foreground: 220 27% 5%;
+
+    --secondary: 220 20% 12%;
+    --secondary-foreground: 220 15% 85%;
+
+    --muted: 220 20% 12%;
+    --muted-foreground: 220 15% 65%;
+
+    --accent: 258 90% 66%;
+    --accent-foreground: 220 27% 5%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 20% 15%;
+    --input: 220 20% 15%;
+    --ring: 213 94% 68%;
+
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-inter;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .tech-gradient {
+    background: linear-gradient(135deg, #0EA5E9 0%, #8B5CF6 50%, #06B6D4 100%);
+  }
+  
+  .text-gradient {
+    background: linear-gradient(135deg, #0EA5E9 0%, #8B5CF6 50%, #06B6D4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .glass-effect {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .tech-border {
+    border-image: linear-gradient(135deg, #0EA5E9, #8B5CF6, #06B6D4) 1;
+  }
+  
+  .section-padding {
+    @apply py-20 px-4 sm:px-6 lg:px-8;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #0EA5E9, #8B5CF6);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #0284C7, #7C3AED);
+}
