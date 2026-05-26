@@ -1311,3 +1311,4 @@
 [2026-05-26 16:10:33] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-05-26 17:47:07] Code is like humor. When you have to explain it, it's bad. - Cory House
 [2026-05-26 22:12:11] Make it work, make it right, make it fast. - Kent Beck
+[2026-05-26 23:37:58] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
