@@ -1342,3 +1342,4 @@
 [2026-06-02 22:51:06] Make it work, make it right, make it fast. - Kent Beck
 [2026-06-02 23:56:44] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-06-03 06:07:18] The best way to predict the future is to implement it. - Alan Kay
+[2026-06-03 08:33:52] It's not a bug – it's an undocumented feature. - Anonymous
