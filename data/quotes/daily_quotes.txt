@@ -1462,3 +1462,4 @@
 [2026-06-24 11:26:22] The best way to predict the future is to implement it. - Alan Kay
 [2026-06-24 15:12:24] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-06-24 16:54:12] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-06-24 18:14:40] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
