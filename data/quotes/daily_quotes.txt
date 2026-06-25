@@ -1466,3 +1466,4 @@
 [2026-06-25 09:41:18] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-06-25 16:57:35] Make it work, make it right, make it fast. - Kent Beck
 [2026-06-25 18:29:06] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-06-25 20:23:04] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
