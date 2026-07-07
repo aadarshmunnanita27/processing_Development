@@ -1534,3 +1534,4 @@
 [2026-07-07 15:15:31] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-07-07 20:16:14] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-07-07 22:00:47] Make it work, make it right, make it fast. - Kent Beck
+[2026-07-07 23:28:18] It's not a bug – it's an undocumented feature. - Anonymous
