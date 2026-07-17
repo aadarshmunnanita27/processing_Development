@@ -1586,3 +1586,4 @@
 [2026-07-17 04:10:33] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-07-17 08:25:46] Make it work, make it right, make it fast. - Kent Beck
 [2026-07-17 10:23:42] Make it work, make it right, make it fast. - Kent Beck
+[2026-07-17 11:50:22] It's not a bug – it's an undocumented feature. - Anonymous
