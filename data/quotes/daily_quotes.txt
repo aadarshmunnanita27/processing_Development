@@ -1591,3 +1591,4 @@
 [2026-07-17 22:58:20] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2026-07-17 23:22:02] The best way to predict the future is to implement it. - Alan Kay
 [2026-07-18 03:31:35] The best way to predict the future is to implement it. - Alan Kay
+[2026-07-18 10:03:02] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
