@@ -1635,3 +1635,4 @@
 [2026-07-25 23:03:29] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
 [2026-07-25 23:28:44] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-07-26 03:55:19] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-07-26 08:37:46] Code is like humor. When you have to explain it, it's bad. - Cory House
