@@ -1697,3 +1697,4 @@
 [2026-08-03 23:13:09] Good code is its own best documentation. - Steve McConnell
 [2026-08-04 04:16:31] Good code is its own best documentation. - Steve McConnell
 [2026-08-04 08:51:30] The best way to predict the future is to implement it. - Alan Kay
+[2026-08-04 18:09:14] It's not a bug – it's an undocumented feature. - Anonymous
