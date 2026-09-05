@@ -1864,3 +1864,4 @@
 [2026-09-04 23:56:15] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-09-05 05:26:27] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
 [2026-09-05 07:49:30] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
+[2026-09-05 12:01:57] Programming isn't about what you know; it's about what you can figure out. - Chris Pine
