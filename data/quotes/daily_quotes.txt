@@ -1910,3 +1910,4 @@
 [2026-09-12 18:30:46] The best way to predict the future is to implement it. - Alan Kay
 [2026-09-12 20:35:08] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-09-12 23:55:44] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-09-13 00:06:43] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
