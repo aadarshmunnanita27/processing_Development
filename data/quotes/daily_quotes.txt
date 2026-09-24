@@ -1973,3 +1973,4 @@
 [2026-09-24 00:40:52] Make it work, make it right, make it fast. - Kent Beck
 [2026-09-24 04:51:28] The best error message is the one that never shows up. - Thomas Fuchs
 [2026-09-24 05:57:35] Good code is its own best documentation. - Steve McConnell
+[2026-09-24 08:41:06] It's not a bug – it's an undocumented feature. - Anonymous
