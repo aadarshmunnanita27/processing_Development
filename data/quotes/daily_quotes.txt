@@ -1982,3 +1982,4 @@
 [2026-09-25 11:45:57] Good code is its own best documentation. - Steve McConnell
 [2026-09-25 15:23:46] Make it work, make it right, make it fast. - Kent Beck
 [2026-09-25 17:13:00] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-09-26 14:38:05] Code is like humor. When you have to explain it, it's bad. - Cory House
