@@ -2008,3 +2008,4 @@
 [2026-10-02 19:30:08] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-10-03 05:19:13] Good code is its own best documentation. - Steve McConnell
 [2026-10-03 11:35:08] The best error message is the one that never shows up. - Thomas Fuchs
+[2026-10-03 13:53:33] It's not a bug – it's an undocumented feature. - Anonymous
