@@ -2028,3 +2028,4 @@
 [2026-10-06 13:14:40] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-10-06 16:52:36] Make it work, make it right, make it fast. - Kent Beck
 [2026-10-06 18:23:13] Make it work, make it right, make it fast. - Kent Beck
+[2026-10-06 19:48:32] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
