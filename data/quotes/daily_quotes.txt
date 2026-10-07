@@ -2034,3 +2034,4 @@
 [2026-10-07 15:45:10] Make it work, make it right, make it fast. - Kent Beck
 [2026-10-07 18:57:14] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
 [2026-10-07 20:08:08] Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+[2026-10-07 21:23:40] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
