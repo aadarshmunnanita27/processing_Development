@@ -2257,3 +2257,4 @@
 [2026-11-20 00:38:31] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-11-20 07:15:23] Make it work, make it right, make it fast. - Kent Beck
 [2026-11-20 21:57:09] Code is like humor. When you have to explain it, it's bad. - Cory House
+[2026-11-20 22:42:45] It's not a bug – it's an undocumented feature. - Anonymous
